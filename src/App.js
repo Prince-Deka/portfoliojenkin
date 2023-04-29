@@ -1,4 +1,4 @@
-import "./App.css";
+import "./Style.css";
 import Hero from "./components/Hero";
 import AboutMe from "./components/AboutMe";
 import MySkills from "./components/MySkills";
