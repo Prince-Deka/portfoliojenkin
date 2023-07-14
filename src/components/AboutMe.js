@@ -22,7 +22,7 @@ function AboutMe() {
                 About Me
               </Typography>
               <Typography variant="subtitle1" sx={{ mb: 3 }}>
-                Hello, I’m a Prince, web-developer based in India. I have rich
+                Hello, I’m Prince Deka, web-developer based in India. I have rich
                 experience in web site design & building and customization. Also
                 I am good at developing modern web apps using ReactJs
               </Typography>

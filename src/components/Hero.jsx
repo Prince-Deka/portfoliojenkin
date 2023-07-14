@@ -37,7 +37,12 @@ function Hero() {
             >
               Visit Dashboard 
             </Button>
+
+
+            {/* typography total open upper */}
             <Typography variant="h3" sx={{ fontWeight: "750", mt: 3, mb: 1 }}>
+
+
               Prince Deka
             </Typography>
             <Typography variant="h4" sx={{ mb: 3 }}>
